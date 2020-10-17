@@ -1,0 +1,26 @@
+C:\Users\archi\source\repos\islands\islands\bin\Debug\netcoreapp3.1\islands.exe
+C:\Users\archi\source\repos\islands\islands\bin\Debug\netcoreapp3.1\islands.deps.json
+C:\Users\archi\source\repos\islands\islands\bin\Debug\netcoreapp3.1\islands.runtimeconfig.json
+C:\Users\archi\source\repos\islands\islands\bin\Debug\netcoreapp3.1\islands.runtimeconfig.dev.json
+C:\Users\archi\source\repos\islands\islands\bin\Debug\netcoreapp3.1\islands.dll
+C:\Users\archi\source\repos\islands\islands\bin\Debug\netcoreapp3.1\islands.pdb
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.csprojAssemblyReference.cache
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.AssemblyInfoInputs.cache
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.AssemblyInfo.cs
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.csproj.CoreCompileInputs.cache
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.dll
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.pdb
+C:\Users\archi\source\repos\islands\islands\obj\Debug\netcoreapp3.1\islands.genruntimeconfig.cache
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\bin\Debug\netcoreapp3.1\islands.exe
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\bin\Debug\netcoreapp3.1\islands.deps.json
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\bin\Debug\netcoreapp3.1\islands.runtimeconfig.json
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\bin\Debug\netcoreapp3.1\islands.runtimeconfig.dev.json
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\bin\Debug\netcoreapp3.1\islands.dll
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\bin\Debug\netcoreapp3.1\islands.pdb
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.csprojAssemblyReference.cache
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.AssemblyInfoInputs.cache
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.AssemblyInfo.cs
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.csproj.CoreCompileInputs.cache
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.dll
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.pdb
+C:\Users\archi\OneDrive\Desktop\New folder\islands\islands\obj\Debug\netcoreapp3.1\islands.genruntimeconfig.cache
